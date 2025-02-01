@@ -43,4 +43,4 @@ example_intersection();
 // If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 ``` 
 
-<img src="inter">
+<img src="intersection.png" width="100%">
