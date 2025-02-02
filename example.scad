@@ -26,8 +26,7 @@ example_intersection();
 
 
 
-// Written by Clifford Wolf <clifford@clifford.at> and Marius
-// Kintel <marius@kintel.net>
+// Written by samglish(BEIDI DINA SAMUEL)
 //
 // To the extent possible under law, the author(s) have dedicated all
 // copyright and related and neighboring rights to this software to the
